@@ -13,8 +13,8 @@ The Text Summarization Tool is designed to condense long pieces of text into sho
 ---
 
 **Features:**
--Extractive Summarization
--Abstractive Summarization
+- **Extractive Summarization**
+- **Abstractive Summarization**
 
 ----
 
