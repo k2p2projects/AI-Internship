@@ -57,12 +57,12 @@ The Neural Style Transfer project takes an input image and applies the artistic 
 -----
 #### Technologies Used:
 
-1. **TensorFlow**:
+1. **TensorFlow**
 2. **TensorFlow Hub**:
-  - the **Arbitrary Image Stylization v1 (256)** model from TensorFlow Hub  
-3. **OpenCV (cv2)**:
-4. **NumPy**:
-5. **Matplotlib**:.
+  - The **Arbitrary Image Stylization v1 (256)** model from TensorFlow Hub  
+3. **OpenCV (cv2)**
+4. **NumPy**
+5. **Matplotlib**
 6. **Pre-trained Style Transfer Model**:
    - The "Arbitrary Image Stylization v1" model
    - Developed by Google Magenta.
@@ -80,11 +80,10 @@ This project focuses on generating human-like text using a Generative Pretrained
    - **GPT-2 (Generative Pre-trained Transformer 2)**:
    - **GPT2LMHeadModel**:
    - **GPT2Tokenizer**:
-
-
-2. **PyTorch**:
-3. **Pre-trained GPT-2 Model**:
-4. **Python**:
-5. **Tokenization and Decoding**:
+     
+2. **PyTorch**
+3. **Pre-trained GPT-2 Model**
+4. **Python**
+5. **Tokenization and Decoding**
 
 
