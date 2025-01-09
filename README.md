@@ -40,6 +40,7 @@ The Text Summarization Tool is designed to condense long pieces of text into sho
 **Description:**
 The Speech Recognition System converts spoken language into text. This tool can be integrated into applications requiring voice commands, transcription services, or accessibility features.
 
+---
 #### Technologies Used:
 1. **Hugging Face Transformers**:
    - **Wav2Vec2ForCTC**
@@ -72,6 +73,7 @@ The Neural Style Transfer project takes an input image and applies the artistic 
 **Description:**
 This project focuses on generating human-like text using a Generative Pretrained Transformer (GPT) model. The goal is to create a tool that can assist in content creation or generate responses similar to human conversation.
 
+---
 #### Technologies Used:
 
 1. **Hugging Face Transformers**:
