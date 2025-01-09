@@ -1,9 +1,9 @@
 # PORTFOLIO-AI-Evolution:Text, Voice, and Art
-**COMPANY** : CODTECH IT SOLUTIONS PVT.LTD\n
-**NAME** : KANCHAN DIGAMBAR PATKAR/n
-**INTERN ID** : CT08GSO
-**DOMAIN** : Artificial Intelligence
-**BATCH DURATION** : December 25th, 2024 to January 25th, 2025.
+- **COMPANY** : CODTECH IT SOLUTIONS PVT.LTD
+- **NAME** : KANCHAN DIGAMBAR PATKAR
+- **INTERN ID** : CT08GSO
+- **DOMAIN** : Artificial Intelligence
+- **BATCH DURATION** : December 25th, 2024 to January 25th, 2025.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Task1- TEXT SUMMARIZATION TOOL
