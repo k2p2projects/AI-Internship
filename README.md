@@ -3,7 +3,7 @@
 - **NAME** : KANCHAN DIGAMBAR PATKAR
 - **INTERN ID** : CT08GSO
 - **DOMAIN** : Artificial Intelligence
-- **BATCH DURATION** : December 25th, 2024 to January 25th, 2025.
+- **BATCH DURATION** : December 25th, 2024 **to** January 25th, 2025.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Task1- TEXT SUMMARIZATION TOOL
